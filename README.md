@@ -8,8 +8,7 @@ I'm a passionate engineer with a knack for technological knowledge. Currently ex
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My website](http://akay-portfolio.netlify.app/)
-* ✉️  You can contact me at [akshatgzb@gmail.com](mailto:akshatgzb@gmail.com)
-* 🚀  I'm currently working on [PC Complete](http://github.com/AkayDevs/PC-Complete)
+* ✉️  You can contact me at [akshatgzb@gmail.com](mailto:sharma.akshat0077@gmail.com)
 * 🧠  I'm learning Large Language Models
 * ⚡  Also I just love playing games - Join my discord ( https://discord.gg/A8vEjTB4 )
 
